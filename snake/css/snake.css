@@ -1,0 +1,28 @@
+html, body, figure, figcaption, ul, li, h1 {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font: inherit;
+  text-align: inherit;
+}
+
+div {
+  width: 20px;
+  height: 20px;
+  background: red;
+  float: left;
+}
+
+div.snake {
+  background: green;
+}
+
+body {
+  width: 500px;
+  text-align: center;
+  margin: auto;
+}
+
+div.apple {
+  background: yellow;
+}
